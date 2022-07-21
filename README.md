@@ -1,6 +1,8 @@
 # AI helper
 NLP model that allows user to ask questions related to AI and ML algorithms, based on Wikipedia pages.
 
+- Google Drive
+  - https://drive.google.com/drive/folders/1F_6GzF-9UNZjGsna3JdbPVZx9ZJQH8z2
 
 ## Flow
 - Question prompt
