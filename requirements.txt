@@ -2,5 +2,8 @@ torch
 torchvision
 torchaudio
 transformers
+sentence-transformers
 
 wikipedia-api
+
+pandas
