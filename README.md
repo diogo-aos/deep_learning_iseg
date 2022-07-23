@@ -9,7 +9,7 @@ NLP model that allows user to ask questions related to AI and ML algorithms, bas
     -> Model to correct text & complete
         - correct.py
         - ref to complete phrase
-    -> Model detect most relevant article
+    -> Model detect most relevant article [V]
         - sentence-transformer (https://www.sbert.net/examples/applications/semantic-search/README.html)
     -> Model answer question in that article
         - distilbert / longformer
