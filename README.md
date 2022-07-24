@@ -1,5 +1,7 @@
-# AI helper
-NLP model that allows user to ask questions related to AI and ML algorithms, based on Wikipedia pages.
+# ISEG | AAIML | DL | Final project - WikIAI
+A user asks questions, top `k` related wikipedia articles are chosen (NLP model) and questions are answered based on each of those articles (NLP model).
+
+Video demo: https://youtu.be/A4AFAbyFQNw
 
 - Google Drive
   - https://drive.google.com/drive/folders/1F_6GzF-9UNZjGsna3JdbPVZx9ZJQH8z2
@@ -18,7 +20,4 @@ NLP model that allows user to ask questions related to AI and ML algorithms, bas
     -> UI with Gradio (https://www.gradio.app/)
 
 ## Todos
-- Compile wikipedia pages related to AI & ML
-    - Supervised -> Helena
-    - Unsupervied -> João
-    - Statistics & Privacy
+
